@@ -1,5 +1,5 @@
 ## EX.NO: 09 <br>
-## DATE: 
+## DATE: 26.04.2023
 ## <p align="center">THRESHOLDING</p>
 
 ## AIM:
@@ -30,7 +30,7 @@ Use Otsu's method to segment the image.
 Display the results.
 
 ## PROGRAM:
-```
+```PYTHON
 # Load the necessary packages
 import cv2
 import numpy as np
